@@ -1,0 +1,24 @@
+{
+    "documents": [
+		{
+			"title": "Modulo Adesione Cerchi D'Onda",
+			"description": "Modulo per parte dell'associazione Cerchi D'Onda.",
+			"img": "/imgs/iscrizione.jpg",
+			"documentUrl": "/docs/note.pdf",
+			"info": {
+				"name": "Ulteriori Info",
+				"href": "https://apple.com"
+			}
+		},
+		{
+			"title": "Modulo Iscrizione SFAF 2024",
+			"description": "Modulo per l'iscrizione alla SFAF: questo modulo è richiesto per far parte dell'associazione Cerchi D'Onda e da diritto alla copertura assicurativa per event associativi che verrà stipulata.",
+			"img": "/imgs/sfaf.png",
+			"documentUrl": "/docs/note.pdf",
+			"info": {
+				"name": "Per saperne di più",
+				"href": "https://apple.com"
+			}
+		}
+    ]
+}
